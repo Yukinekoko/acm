@@ -2,7 +2,7 @@ package leetcode;
 
 /**
  * <a href="https://leetcode.cn/problems/move-zeroes">problem</a>
- * @author wangzhike (wangzhike@corp.netease.com)
+ * @author snowmeow
  */
 public class MoveZeros {
 
